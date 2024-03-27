@@ -63,10 +63,8 @@ class CalcularTotal
 3. **Snake Case**: Nessa convenção, todas as letras são minúsculas e as palavras são separadas por underscores. É comumente usado em JSON, Python, Ruby e algumas outras linguagens. Por exemplo:
 
 ```json
-snake_case_exemplo: {
-	"inner_exemplo": [
-		"exemplo"
-	]
+{
+	"snake_case_exemplo": ["exemplo"]
 }
 ```
 
