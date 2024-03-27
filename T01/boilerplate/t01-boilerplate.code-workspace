@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"name": "T01: Boilerplate",
+			"path": "./"
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			// Maintain consistency across code editors
+			"editorconfig.editorconfig",
+			// Code formatting
+			"esbenp.prettier-vscode",
+			// Live Server
+			"ritwickdey.LiveServer",
+			// JavaScript snippets
+			"Gajesh1.React-JS-Snippet"
+		]
+	},
+	"settings": {
+		// Enable formating when saving files
+		"editor.formatOnSave": true,
+		// Change default code formatter to Prettier
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+
+		// HTML auto formatting options
+		"html.format.maxPreserveNewLines": 1,
+		"html.format.wrapAttributes": "preserve"
+	}
+}

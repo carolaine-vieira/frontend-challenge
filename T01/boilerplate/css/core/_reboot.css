@@ -1,0 +1,14 @@
+html,
+body {
+	margin: 0;
+	font-family: Arial;
+}
+
+a,
+a:hover {
+	text-decoration: none;
+}
+
+img {
+	max-width: 100%;
+}
