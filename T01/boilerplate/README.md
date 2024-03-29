@@ -1,10 +1,11 @@
 # Desafio 01
 
-> Tarefa: desenvolver as páginas presentes no design.
+> Tarefa: desenvolver a página presente no design.
 
 1. Clone o repositório, e crie uma branch com o seu nome. Exemplo `t01-carolaine`;
 2. Entre no WorkSpace `t01-boilerplate` e instale as extensões recomendadas;
-3. Utilize o design que está dentro da pasta `T01` e desenvolva as páginas que forem listadas no design.
+3. Utilize o design que está dentro da pasta `T01` e desenvolva a página que foi adicionada no design;
+4. Não use bibliotcas para desenvolver a página.
 
 ## Ambiente (Boilerplate)
 
@@ -37,6 +38,10 @@ Um "Workspace" no Visual Studio Code (VS Code) é um conjunto de configurações
 Emmet é um plugin integrado em muitos editores de código, **incluindo o Visual Studio Code**, que permite a escrita rápida e eficiente de HTML e CSS usando abreviações. Ele fornece atalhos para criar rapidamente estruturas HTML, classes CSS, IDs e muito mais, economizando tempo e reduzindo a quantidade de digitação necessária.
 
 ![Emmet Preview](https://code.visualstudio.com/assets/docs/editor/emmet/emmet.gif)
+
+### Live Server
+
+Em resumo, o Live Server é uma extensão para o Visual Studio Code que permite iniciar um servidor web local diretamente do ambiente de desenvolvimento. Ele oferece recarregamento automático do navegador para refletir as alterações no código-fonte em tempo real, facilitando o desenvolvimento e teste de projetos web. Com suporte a recursos modernos do HTML5, CSS e JavaScript, o Live Server simplifica o processo de desenvolvimento ao proporcionar uma experiência de desenvolvimento mais fluida e eficiente.
 
 ### Conceitos interessantes para este e os posteriores desafios
 
