@@ -1,8 +1,12 @@
-# Desafio Front-End
+# <center>Desafios Front-End</center>
 
-O propósito desta série de desafios é te dar experiência com os conceitos listados nesta página. O nível de experiência visado aqui é entre um estagiário até o nível júnior.
+<div style="text-align: center">O propósito desta série de desafios é te dar experiência com os conceitos listados nesta página. </br> O nível de experiência visado aqui é entre um estagiário até o nível júnior.</div>
 
-## Desafios 
+<a href="https://carolaine-vieira.github.io/frontend-challenge/" style="margin: 20px auto 0 auto; display: block; width: 260px; text-align: center; background: green; padding: 10px 20px; color: #fff; border-radius: 25px;">Ver pré-visualização dos desafios</a>
+
+---
+
+## 0. Listagem por ID
 
 ID  |Conhecimentos aplicados
 ----|:------------------------------
