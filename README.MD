@@ -2,6 +2,12 @@
 
 O propósito desta série de desafios é te dar experiência com os conceitos listados nesta página. O nível de experiência visado aqui é entre um estagiário até o nível júnior.
 
+## Desafios 
+
+ID  |Conhecimentos aplicados
+----|:------------------------------
+[T01](./T01/) |HTML, CSS, JS, Noções de Design 
+
 ## 1. Conhecimentos básicos
 
 1. [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
