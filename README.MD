@@ -6,7 +6,7 @@ O propósito desta série de desafios é te dar experiência com os conceitos li
 
 ID  |Conhecimentos aplicados
 ----|:------------------------------
-[T01](./T01/) |HTML, CSS, JS, Noções de Design 
+[T01](./T01/README.md) |HTML, CSS, JS, Noções de Design 
 
 ## 1. Conhecimentos básicos
 
